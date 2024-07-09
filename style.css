@@ -1,0 +1,66 @@
+.menu{
+    background-color: blue;
+    border: 1px;
+    border-color:white;
+    width:100%;
+}
+body{
+    text-align: center;
+}
+.menu img{
+    width: 20px;
+    height:20px;
+}
+.menu td{
+    text-align: right;
+}
+
+
+.menu td{
+    height:30px;
+    border:0px;
+
+}
+.b pre{
+    color:white;
+    text-align: center;
+}
+.b{
+    border:1px;
+    border-color:white;
+    border-radius:6px;
+    width: 100px;
+}
+.sep{
+    width:fit-content;
+}
+    
+
+
+
+
+.data{
+    height:150px;
+    
+}
+.data td{
+    border-color:black;
+    border-radius:5px;
+    border:1px;
+    height:100px;
+    width:100px;
+
+}
+.logo{
+    width:50px;
+}
+.ot {
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: beige;
+    border-radius: 4px;
+   
+    width:150px;
+    height:150px;
+}
